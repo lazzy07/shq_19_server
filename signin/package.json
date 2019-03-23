@@ -10,7 +10,10 @@
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "react-materialize": "^2.6.0",
+    "react-router-dom": "^4.4.0",
     "react-scripts": "2.1.8",
+    "react-signature-canvas": "^1.0.1",
+    "socket.io-client": "^2.2.0",
     "typescript": "3.3.3333"
   },
   "scripts": {
@@ -27,5 +30,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "@types/socket.io-client": "^1.4.32"
+  }
 }

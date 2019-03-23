@@ -1,0 +1,19 @@
+body {
+  background-color: #252525;
+  padding: 0;
+  font-family: "adRegular";
+  user-select: none;
+  color: #fff; }
+
+h1 {
+  color: #fff;
+  font-family: "adBold"; }
+
+@font-face {
+  font-family: "adBold";
+  src: url("../fonts/AdventPro-Bold.ttf"); }
+@font-face {
+  font-family: "adRegular";
+  src: url("../fonts/AdventPro-Regular.ttf"); }
+
+/*# sourceMappingURL=App.css.map */

@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAGA,UAAW;EACT,WAAW,EAAE,MAAM;;AAGrB,aAAc;EACZ,QAAQ,EAAE,MAAM",
+"sources": ["../scss/SignboardScreen.scss"],
+"names": [],
+"file": "SignboardScreen.css"
+}
